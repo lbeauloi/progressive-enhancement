@@ -1,0 +1,35 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    font-size: 18px;
+    color: rgb(1, 1, 97);
+}
+
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(101, 154, 172);
+}
+a:hover{
+    color: orangered;
+}
+
+body{
+    width: 90%;
+    margin: auto;
+    background:linear-gradient(90deg, rgb(25, 117, 27), rgb(245, 109, 0));
+}
+
+blockquote{
+    width: 50%;
+    margin: auto;
+    padding-top: 80px;
+}
+
+q{
+    font-size: 160%;
+    background-color: lightgray;
+    border-left: 3px dashed black;
+    padding-left: 30px;
+}
